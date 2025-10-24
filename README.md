@@ -1,2 +1,3 @@
 # promptchoose-redirect
-promptchoose项目重定向
+
+promptchoose 项目重定向
